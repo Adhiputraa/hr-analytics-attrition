@@ -77,7 +77,7 @@ Untuk menjalankan prototipe sistem:
    - Apakah karyawan berpotensi resign
    - Probabilitasnya dalam bentuk persentase
 
-🔗 Link Prototipe:
+🔗 Link Prototipe: https://hr-analytics-attrition-dicoding.streamlit.app/
 
 ## Conclusion
 
