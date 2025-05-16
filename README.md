@@ -12,15 +12,11 @@ Jaya Jaya Maju menghadapi tingkat perputaran karyawan lebih dari 10%, yang memen
 
 ### Cakupan Proyek
 
-Membersihkan dataset yang digunakan untuk analisis.
-
-Mengidentifikasi variabel yang paling berpengaruh terhadap perputaran karyawan.
-
-Membangun model prediktif untuk perputaran karyawan menggunakan teknik pembelajaran mesin.
-
-Memberikan rekomendasi strategis berdasarkan hasil analisis.
-
-Membangun dasbor visualisasi untuk memantau faktor risiko perputaran karyawan.
+- Membersihkan dataset yang digunakan untuk analisis.
+- Mengidentifikasi variabel yang paling berpengaruh terhadap perputaran karyawan.
+- Membangun model prediktif untuk perputaran karyawan menggunakan teknik pembelajaran mesin.
+- Memberikan rekomendasi strategis berdasarkan hasil analisis.
+- Membangun dasbor visualisasi untuk memantau faktor risiko perputaran karyawan.
 
 ### Persiapan
 
