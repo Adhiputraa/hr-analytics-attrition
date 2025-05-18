@@ -51,15 +51,32 @@ pipenv shell
 streamlit run app.py
 ```
 
+Akses Dashboard Metabase
+Untuk mengakses dasbor HR, login ke Metabase dengan akun berikut:
+
+```
+Email: adityayogoal33@gmail.com
+Password: @KaiHavertz29
+```
+
+Atau alternatif default:
+
+```
+Email: root@mail.com
+Password: root123
+```
+
 ## Business Dashboard
 
 Business Dashboard
 Business dashboard dirancang untuk membantu manajer HR dan eksekutif memantau faktor-faktor kunci yang berkontribusi terhadap perputaran karyawan. Dashboard ini dibangun menggunakan Metabase, dan mencakup berbagai visualisasi seperti:
 
-- Tingkat attrition secara keseluruhan dan berdasarkan departemen
-- Rata-rata kompensasi per jam dan hubungannya dengan jarak rumah
-- Distribusi kepuasan kerja dan keterlibatan karyawan
-- Faktor-faktor teratas yang memengaruhi prediksi keluar atau bertahannya karyawan
+- Rata-rata Gaji Bulanan berdasarkan Status Attrition dan Work-Life Balance
+- Distribusi Karyawan berdasarkan Status Attrition
+- Perbandingan Tingkat Attrition berdasarkan Bidang Pendidikan
+- Dampak Jarak Tempuh terhadap Tingkat Keluar Karyawan
+- Tingkat Attrition berdasarkan Kelompok Usia
+- Attrition berdasarkan Status Pernikahan
 
 🔗 Link Dashboard:
 
@@ -81,29 +98,21 @@ Untuk menjalankan prototipe sistem:
 
 ## Conclusion
 
-Proyek ini berhasil mengidentifikasi dan memodelkan faktor-faktor kunci yang memengaruhi attrition di perusahaan Jaya Jaya Maju. Dengan menggunakan pendekatan data-driven, perusahaan kini dapat:
+Dengan pendekatan berbasis data, proyek ini memberikan:
 
-- Memprediksi risiko keluarnya karyawan dengan cukup akurat
-- faktor penyebab seperti ketidakseimbangan kompensasi, kurangnya karir yang jelas, dan kepuasan kerja rendah
-- Menggunakan dashboard interaktif untuk memantau metrik-metrik HR secara real-time
-- Dengan alat dan insight ini, diharapkan perusahaan bisa meningkatkan retensi karyawan dan mengurangi biaya akibat tingginya turnover.
+- Model akurat untuk memprediksi potensi keluar karyawan
+- Dasbor visualisasi untuk monitoring faktor risiko
+- Rekomendasi actionable untuk meningkatkan retensi
+- Perusahaan kini dapat mengambil keputusan strategis secara lebih cepat dan tepat berdasarkan data.
 
 ### Rekomendasi Action Items
 
-Tingkatkan Kompensasi dan Fasilitas
-Berdasarkan dashboard, salah satu penyebab utama attrition adalah ketidaksesuaian antara gaji per jam dan jarak rumah ke kantor. Direkomendasikan untuk:
+Kompensasi dan Keseimbangan Hidup
+Meskipun rata-rata gaji bulanan lebih tinggi pada karyawan yang keluar, hal ini menunjukkan bahwa faktor non-finansial seperti lingkungan kerja, peluang pengembangan karier, dan keseimbangan kerja-hidup perlu menjadi fokus utama untuk meningkatkan retensi. Perusahaan direkomendasikan untuk:
 
-- gaji dengan rata-rata jarak karyawan
-- mess, flat, atau subsidi transportasi
+- Perbaiki Lingkungan Kerja untuk menciptakan budaya kerja yang positif, suportif, dan kolaboratif agar karyawan merasa nyaman dan termotivasi
 
-Bangun Jalur Karier yang Jelas
-Data menunjukkan bahwa karyawan dengan hubungan kerja baik tetap bisa keluar jika tidak melihat prospek jangka panjang. Perusahaan perlu:
+Data menunjukkan bahwa karyawan yang masih single dan berusia lebih muda memiliki kecenderungan lebih tinggi untuk resign. Hal ini bisa disebabkan oleh faktor seperti pencarian pengalaman baru, mobilitas yang lebih tinggi, atau belum memiliki ikatan keluarga yang kuat sehingga lebih fleksibel mengambil keputusan untuk pindah kerja. Perusahaan direkomendasikan untuk:
 
-- jalur karier yang terstruktur
-- Melibatkan karyawan dalam penentuan target jangka panjang
-
-Evaluasi Kinerja dan Feedback Berkala
-Keinginan mencari tantangan baru dan miskomunikasi dengan manajemen juga berkontribusi terhadap attrition. Perusahaan perlu:
-
-- Mengadakan evaluasi dan review performa secara rutin
-- ruang bagi karyawan untuk menyampaikan aspirasi dan tantangan yang dihadapi
+- Kembangkan Program Pengembangan Karier dan Pelatihan
+- Berikan Insentif yang Relevan
